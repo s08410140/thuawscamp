@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://s08410140.github.io/thuawscamp/sitemap.xml
